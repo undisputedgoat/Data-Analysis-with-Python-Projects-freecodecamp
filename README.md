@@ -1,2 +1,2 @@
-# Mean-Variance-Standard-Deviation-Calculator
+# Data Analysis with Python Projects freecodecamp
 freecodecamp.org data science project
